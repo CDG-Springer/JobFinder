@@ -10,11 +10,11 @@ Job Finder é um site de procura de empregos desenvolvido utilizando JavaScript 
 
 ## Tecnologias Utilizadas
 
-- JavaScript
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript
 - Handlebars
-- SQLite3
-- Express.js
-- Sequelize
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) SQLite3
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) Express.js
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) Sequelize
 - Body Parser
 
 Este projeto combina diferentes tecnologias e frameworks para fornecer uma plataforma robusta e fácil de usar para a procura de empregos, contribuindo para uma experiência mais eficiente tanto para os candidatos quanto para os empregadores.
