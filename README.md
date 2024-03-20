@@ -2,6 +2,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![Handlebars](https://img.shields.io/badge/Handlebars-30%25-orange?logo=handlebars&logoColor=white)](https://handlebarsjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-100%25-green?logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ## Descrição do Projeto
 
